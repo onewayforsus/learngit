@@ -4,4 +4,3 @@ Git has a mutable index called stage.
 master is medium.
 Git	tracks	changes	of	files.
 Creating a new branch is quick and simple.
-new dev.
